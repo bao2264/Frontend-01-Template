@@ -8,6 +8,8 @@ new new foo() ---> new (new foo())
 
 ##### Reference 类型
 
+- [Explaining Value vs Reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+
 ##### 类型转换
 
 |           | Number         | String           | Boolean  | Undefined | Null | Object | Symbol |
